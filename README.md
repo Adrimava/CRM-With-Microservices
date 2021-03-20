@@ -4,8 +4,21 @@
 
 ## INTRODUCTION
 
-For this week's homework, we were assigned a project from a previous class. This means that no one on our team knew the code since none of us had a hand in building it. This is likely what we'll be confronted with on-the-job as it is very common that we'll find ourself in a position where us and our team will take over an existing or abandoned project. 
+This CRM will allow you to:
 
+
+1. Create Sales Representatives
+
+2. Track Leads (people whose contact info we have gathered but who may or may not be interested our product)
+
+3. Convert Leads into Opportunities (leads are converted into opportunities when they show interest in buying the product)
+
+4. Associate an Opportunity with an Account.
+
+5. Associate Contacts with an Opportunity.
+
+6. Get Reports & Statistics
+7. 
 
 
 ## REQUIREMENTS
