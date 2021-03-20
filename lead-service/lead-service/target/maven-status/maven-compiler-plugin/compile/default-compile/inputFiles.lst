@@ -1,0 +1,10 @@
+E:\Silvia\Proyectos\Java\Semanales\emof-crm-microservices\lead-service\lead-service\src\main\java\com\ironhack\emofcrmmicroservices\leadservice\controller\dto\LeadDto.java
+E:\Silvia\Proyectos\Java\Semanales\emof-crm-microservices\lead-service\lead-service\src\main\java\com\ironhack\emofcrmmicroservices\leadservice\repository\LeadRepository.java
+E:\Silvia\Proyectos\Java\Semanales\emof-crm-microservices\lead-service\lead-service\src\main\java\com\ironhack\emofcrmmicroservices\leadservice\service\impl\LeadService.java
+E:\Silvia\Proyectos\Java\Semanales\emof-crm-microservices\lead-service\lead-service\src\main\java\com\ironhack\emofcrmmicroservices\leadservice\controller\dto\SalesRepDTO.java
+E:\Silvia\Proyectos\Java\Semanales\emof-crm-microservices\lead-service\lead-service\src\main\java\com\ironhack\emofcrmmicroservices\leadservice\controller\impl\LeadController.java
+E:\Silvia\Proyectos\Java\Semanales\emof-crm-microservices\lead-service\lead-service\src\main\java\com\ironhack\emofcrmmicroservices\leadservice\client\SalesRepClient.java
+E:\Silvia\Proyectos\Java\Semanales\emof-crm-microservices\lead-service\lead-service\src\main\java\com\ironhack\emofcrmmicroservices\leadservice\model\Lead.java
+E:\Silvia\Proyectos\Java\Semanales\emof-crm-microservices\lead-service\lead-service\src\main\java\com\ironhack\emofcrmmicroservices\leadservice\service\interfaces\ILeadService.java
+E:\Silvia\Proyectos\Java\Semanales\emof-crm-microservices\lead-service\lead-service\src\main\java\com\ironhack\emofcrmmicroservices\leadservice\controller\interfaces\ILeadController.java
+E:\Silvia\Proyectos\Java\Semanales\emof-crm-microservices\lead-service\lead-service\src\main\java\com\ironhack\emofcrmmicroservices\leadservice\LeadServiceApplication.java

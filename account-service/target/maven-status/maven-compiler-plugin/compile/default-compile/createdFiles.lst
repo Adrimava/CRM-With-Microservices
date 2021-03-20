@@ -1,0 +1,15 @@
+com\ironhack\emofcrmmicroservices\accountmicroservice\model\OpportunityId.class
+com\ironhack\emofcrmmicroservices\accountmicroservice\controller\interfaces\IAccountController.class
+com\ironhack\emofcrmmicroservices\accountmicroservice\controller\dto\UpdateAccountDto.class
+com\ironhack\emofcrmmicroservices\accountmicroservice\repository\AccountRepository.class
+com\ironhack\emofcrmmicroservices\accountmicroservice\model\Account.class
+com\ironhack\emofcrmmicroservices\accountmicroservice\repository\ContactIdRepository.class
+com\ironhack\emofcrmmicroservices\accountmicroservice\repository\OpportunityIdRepository.class
+com\ironhack\emofcrmmicroservices\accountmicroservice\model\ContactId.class
+com\ironhack\emofcrmmicroservices\accountmicroservice\service\interfaces\IAccountService.class
+com\ironhack\emofcrmmicroservices\accountmicroservice\controller\dto\OppsByIndustryDto.class
+com\ironhack\emofcrmmicroservices\accountmicroservice\controller\impl\AccountController.class
+com\ironhack\emofcrmmicroservices\accountmicroservice\service\impl\AccountService.class
+com\ironhack\emofcrmmicroservices\accountmicroservice\AccountMicroserviceApplication.class
+com\ironhack\emofcrmmicroservices\accountmicroservice\controller\dto\AccountDto.class
+com\ironhack\emofcrmmicroservices\accountmicroservice\enums\Industry.class

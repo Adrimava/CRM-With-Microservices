@@ -1,0 +1,7 @@
+com\ironhack\emofcrmmicroservices\salesRepservice\controller\dto\LeadsBySalesRepDto.class
+com\ironhack\emofcrmmicroservices\salesRepservice\controller\interfaces\ISalesRepController.class
+com\ironhack\emofcrmmicroservices\salesRepservice\controller\dto\OppsBySalesRepDto.class
+com\ironhack\emofcrmmicroservices\salesRepservice\model\LeadId.class
+com\ironhack\emofcrmmicroservices\salesRepservice\model\OpportunityId.class
+com\ironhack\emofcrmmicroservices\salesRepservice\repository\LeadRepository.class
+com\ironhack\emofcrmmicroservices\salesRepservice\repository\OpportunityRepository.class

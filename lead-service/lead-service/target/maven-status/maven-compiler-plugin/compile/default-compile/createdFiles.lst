@@ -1,0 +1,9 @@
+com\ironhack\emofcrmmicroservices\leadservice\LeadServiceApplication.class
+com\ironhack\emofcrmmicroservices\leadservice\service\interfaces\ILeadService.class
+com\ironhack\emofcrmmicroservices\leadservice\service\impl\LeadService.class
+com\ironhack\emofcrmmicroservices\leadservice\controller\dto\SalesRepDTO.class
+com\ironhack\emofcrmmicroservices\leadservice\repository\LeadRepository.class
+com\ironhack\emofcrmmicroservices\leadservice\model\Lead.class
+com\ironhack\emofcrmmicroservices\leadservice\controller\dto\LeadDto.class
+com\ironhack\emofcrmmicroservices\leadservice\controller\impl\LeadController.class
+com\ironhack\emofcrmmicroservices\leadservice\client\SalesRepClient.class

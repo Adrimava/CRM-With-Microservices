@@ -1,0 +1,14 @@
+E:\Silvia\Proyectos\Java\Semanales\emof-crm-microservices\salesRep-service\src\main\java\com\ironhack\emofcrmmicroservices\salesRepservice\controller\interfaces\ISalesRepController.java
+E:\Silvia\Proyectos\Java\Semanales\emof-crm-microservices\salesRep-service\src\main\java\com\ironhack\emofcrmmicroservices\salesRepservice\controller\dto\LeadsBySalesRepDto.java
+E:\Silvia\Proyectos\Java\Semanales\emof-crm-microservices\salesRep-service\src\main\java\com\ironhack\emofcrmmicroservices\salesRepservice\repository\LeadRepository.java
+E:\Silvia\Proyectos\Java\Semanales\emof-crm-microservices\salesRep-service\src\main\java\com\ironhack\emofcrmmicroservices\salesRepservice\repository\OpportunityRepository.java
+E:\Silvia\Proyectos\Java\Semanales\emof-crm-microservices\salesRep-service\src\main\java\com\ironhack\emofcrmmicroservices\salesRepservice\model\LeadId.java
+E:\Silvia\Proyectos\Java\Semanales\emof-crm-microservices\salesRep-service\src\main\java\com\ironhack\emofcrmmicroservices\salesRepservice\service\impl\SalesRepService.java
+E:\Silvia\Proyectos\Java\Semanales\emof-crm-microservices\salesRep-service\src\main\java\com\ironhack\emofcrmmicroservices\salesRepservice\service\interfaces\ISalesRepService.java
+E:\Silvia\Proyectos\Java\Semanales\emof-crm-microservices\salesRep-service\src\main\java\com\ironhack\emofcrmmicroservices\salesRepservice\model\SalesRep.java
+E:\Silvia\Proyectos\Java\Semanales\emof-crm-microservices\salesRep-service\src\main\java\com\ironhack\emofcrmmicroservices\salesRepservice\repository\SalesRepRepository.java
+E:\Silvia\Proyectos\Java\Semanales\emof-crm-microservices\salesRep-service\src\main\java\com\ironhack\emofcrmmicroservices\salesRepservice\SalesRepServiceApplication.java
+E:\Silvia\Proyectos\Java\Semanales\emof-crm-microservices\salesRep-service\src\main\java\com\ironhack\emofcrmmicroservices\salesRepservice\controller\dto\OppsBySalesRepDto.java
+E:\Silvia\Proyectos\Java\Semanales\emof-crm-microservices\salesRep-service\src\main\java\com\ironhack\emofcrmmicroservices\salesRepservice\controller\dto\SalesRepDto.java
+E:\Silvia\Proyectos\Java\Semanales\emof-crm-microservices\salesRep-service\src\main\java\com\ironhack\emofcrmmicroservices\salesRepservice\controller\impl\SalesRepController.java
+E:\Silvia\Proyectos\Java\Semanales\emof-crm-microservices\salesRep-service\src\main\java\com\ironhack\emofcrmmicroservices\salesRepservice\model\OpportunityId.java
