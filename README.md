@@ -18,7 +18,6 @@ This CRM will allow you to:
 5. Associate Contacts with an Opportunity.
 
 6. Get Reports & Statistics
-7. 
 
 
 ## REQUIREMENTS
